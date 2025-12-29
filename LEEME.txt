@@ -1,0 +1,54 @@
+======================================================================
+      CONVERTIDOR DE EXCEL A PDF - EVIL CUY STUDIOS (v1.0)
+======================================================================
+Desarrollado por: PROCYON
+Sello de Calidad: 🐹 Evil Cuy Studios - "En el morder está el poder"
+
+       _     _          
+      (c).-.(c)      
+       / . . \       [ CUY CONTADOR ACTIVADO ]
+      =\__Y__/=      -------------------------
+      /       \      ESTADO: LISTO PARA LA MISION
+      \_______/      OBJETIVO: EXCEL -> PDF
+       `"" ""`       AUTOR: PROCYON
+
+======================================================================
+
+¡Felicidades! Tienes en tus manos una herramienta de élite para la 
+gestión masiva de documentos. No requiere instalación de Python.
+
+INSTRUCCIONES DE OPERACIÓN:
+---------------------------
+1. EJECUCIÓN:
+   Lanza el archivo "Convertidor de EXCEL a PDF - EVIL CUY STUDIOS.exe".
+
+2. SELECCIÓN DE OBJETIVOS:
+   Se abrirá un selector de carpetas. Elige la carpeta donde están 
+   tus archivos .xlsx, .xls o .csv.
+
+3. PROCESAMIENTO:
+   El Cuy Hacker comenzará la conversión. Verás el progreso en tiempo
+   real dentro de la terminal.
+
+4. BÓVEDA DE RESULTADOS:
+   Al finalizar, el sistema creará automáticamente una carpeta llamada
+   "RESULTADOS_PDF" DENTRO de la carpeta que seleccionaste. 
+   Tus archivos originales NO serán modificados.
+
+5. EXTRACCIÓN:
+   La carpeta de resultados se abrirá automáticamente frente a ti 
+   apenas termine la misión.
+
+REQUISITOS DEL SISTEMA:
+-----------------------
+- Sistema Operativo: Windows 10 o Windows 11.
+- Software Base: Microsoft Excel instalado.
+
+NOTAS DEL DESARROLLADOR:
+------------------------
+- Cierra tus archivos de Excel antes de iniciar el proceso.
+- El programa es 100% portátil: corre desde USB o carpetas locales.
+
+----------------------------------------------------------------------
+      "No hay hoja de cálculo que se resista al Cuy."
+======================================================================
